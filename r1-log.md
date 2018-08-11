@@ -1,10 +1,8 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [ex7r3me]
 
 The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+Track user changes with update timestamp using hook. add queue manager for upcoming features. https://github.com/ex7r3me/fooname
