@@ -6,3 +6,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D1 
 Track user changes with update timestamp using hook. add queue manager for upcoming features. https://github.com/ex7r3me/fooname
+
+### R1D1 
+I started android development for my hobby project.Init project using infinite red ignite. and played with twitter sign in button https://github.com/ex7r3me/fooname-mobile
