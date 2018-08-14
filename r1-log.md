@@ -12,3 +12,6 @@ I started android development for my hobby project.Init project using infinite r
 
 ### R1D3
 Worked on adding twitter login button in react native. tried 2 library but no luck. I'll try the AppAuth tomorrow https://github.com/ex7r3me/fooname-mobile
+
+### R1D4
+Tried AppAuth and getting strange errors, I've learned about js server and bundling in react native https://github.com/ex7r3me/fooname-mobile

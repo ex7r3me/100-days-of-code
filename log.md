@@ -20,3 +20,10 @@
 **Thoughts:** I need to read more in depth about react native library linking and project structure. I've read ignite documentation but I feel my fundamental knowledge on react native is not enough. I like to try basic things without library then understand what it do when I use it. it can reduce abstraction leak too.
 
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 4: August 15, 2018
+**Today's Progress**: Tried appAuth, faced strange error and tried 3 versions of it. I may fallback to auth0
+
+**Thoughts:** I'm not happy that there's nothing to commit. the example of appAuth seems to work (didn't had time to check the twitter oauth). as I go forward I learn more about react native.
+
+**Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
