@@ -15,3 +15,7 @@ Worked on adding twitter login button in react native. tried 2 library but no lu
 
 ### R1D4
 Tried AppAuth and getting strange errors, I've learned about js server and bundling in react native https://github.com/ex7r3me/fooname-mobile
+
+### R1D5
+Integrated Auth0 in application, it was pretty straightforward and fun to work with. it's a proof of concept and in following days i'll work on other parts of the app and backend.
+https://github.com/ex7r3me/fooname-mobile

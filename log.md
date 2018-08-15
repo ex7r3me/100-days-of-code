@@ -27,3 +27,10 @@
 **Thoughts:** I'm not happy that there's nothing to commit. the example of appAuth seems to work (didn't had time to check the twitter oauth). as I go forward I learn more about react native.
 
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 5: August 16, 2018
+**Today's Progress**: Added Auth0 and it works, it's somehow a proof of concept but now we have a working twitter authentication. 
+
+**Thoughts:** Today I also flashed an old tablet to test builds on it and make the workflow faster. it was fun and made me happy that there's more memmory for IDE and build server :D. Auth0 documentations and samples are very good and I was up and running with not much hassle. still not sure about this solution and the user experience but going with it for the MVP and complete other parts of app and may update login process later.
+
+**Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
