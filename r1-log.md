@@ -19,3 +19,7 @@ Tried AppAuth and getting strange errors, I've learned about js server and bundl
 ### R1D5
 Integrated Auth0 in application, it was pretty straightforward and fun to work with. it's a proof of concept and in following days i'll work on other parts of the app and backend.
 https://github.com/ex7r3me/fooname-mobile
+
+##R1D6
+Today I've read about react navigation for the react native and add a new screen to the app, now the Auth0 Authentication credentials show as a JSON in the new screen
+https://github.com/ex7r3me/fooname-mobile

@@ -34,3 +34,9 @@
 **Thoughts:** Today I also flashed an old tablet to test builds on it and make the workflow faster. it was fun and made me happy that there's more memmory for IDE and build server :D. Auth0 documentations and samples are very good and I was up and running with not much hassle. still not sure about this solution and the user experience but going with it for the MVP and complete other parts of app and may update login process later.
 
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 6: August 17, 2018
+**Today's Progress**: Added new screen and showing JSON data returned from Auth0
+
+**Thoughts:** I've learned about react navigation and tried to understand it instead of just using. I think it's better for learning and reduce further problems
+**Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
