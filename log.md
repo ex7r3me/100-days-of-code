@@ -40,3 +40,9 @@
 
 **Thoughts:** I've learned about react navigation and tried to understand it instead of just using. I think it's better for learning and reduce further problems
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 7: August 19, 2018
+**Today's Progress**: Learned more about Auth0 and Deep linking in android, tried deep linking and add user without using third party and only browser. 
+
+**Thoughts:** I'm a little confused about authentication flow, cause I need to store twitter credentials in the backend while able to login using mobile app. I thought I need a login with twitter button or Auth0. but now I think I may only need to open the backend api in a webview and on the callback redirect a session to app. I'll read and plan for it tomorrow.
+**Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)

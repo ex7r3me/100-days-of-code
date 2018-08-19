@@ -23,3 +23,8 @@ https://github.com/ex7r3me/fooname-mobile
 ##R1D6
 Today I've read about react navigation for the react native and add a new screen to the app, now the Auth0 Authentication credentials show as a JSON in the new screen
 https://github.com/ex7r3me/fooname-mobile
+
+##R1D7
+Added deeplink and open in browser linking in react-native. I have to read and learn more about my app architecture but first I wanna have a working version.
+https://github.com/ex7r3me/fooname-mobile
+
