@@ -46,3 +46,9 @@
 
 **Thoughts:** I'm a little confused about authentication flow, cause I need to store twitter credentials in the backend while able to login using mobile app. I thought I need a login with twitter button or Auth0. but now I think I may only need to open the backend api in a webview and on the callback redirect a session to app. I'll read and plan for it tomorrow.
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 8: August 20, 2018
+**Today's Progress**: react-navigation Upgraded and now the app has deep link support that show parameters in the opened screen, also backend redirect to this deep link and send the access token 
+
+**Thoughts:** Today I had a brighter plan and also I knew what to do so I achieved a good progress, also I've get home earlier that usual and finished today's challenge before 10PM, I was tired but had far way better productivity that late night. tomorrow I have a lot to do with access token and making API calls and later I'll go for a deploy and auto app'a APK generating throug CI.
+**Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)

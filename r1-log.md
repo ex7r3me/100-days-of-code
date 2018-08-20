@@ -28,3 +28,8 @@ https://github.com/ex7r3me/fooname-mobile
 Added deeplink and open in browser linking in react-native. I have to read and learn more about my app architecture but first I wanna have a working version.
 https://github.com/ex7r3me/fooname-mobile
 
+##R1D8
+I've upgraded react-navigation in the project and add a deep-link support to open a screen and show access token that created by loopback for the user that signed up with Twitter.
+https://github.com/ex7r3me/fooname-mobile
+
+
