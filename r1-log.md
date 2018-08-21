@@ -32,4 +32,9 @@ https://github.com/ex7r3me/fooname-mobile
 I've upgraded react-navigation in the project and add a deep-link support to open a screen and show access token that created by loopback for the user that signed up with Twitter.
 https://github.com/ex7r3me/fooname-mobile
 
+##R1D8
+Now the app remembers the access token. it saves the access token in AsyncStorage, I need to implement redux but it working for now and I'm happy that I've learned about it.
+https://github.com/ex7r3me/fooname-mobile
+
+
 
