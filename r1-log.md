@@ -36,5 +36,6 @@ https://github.com/ex7r3me/fooname-mobile
 Now the app remembers the access token. it saves the access token in AsyncStorage, I need to implement redux but it working for now and I'm happy that I've learned about it.
 https://github.com/ex7r3me/fooname-mobile
 
-
-
+##R1D10
+I've tried redux-form in react native but it was overcomplicated and I may don't want to use redux in this project so I I've found formik and added it. now user can save his/her City ID in database
+https://github.com/ex7r3me/fooname-mobile
