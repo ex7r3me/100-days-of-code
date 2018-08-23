@@ -39,3 +39,6 @@ https://github.com/ex7r3me/fooname-mobile
 ##R1D10
 I've tried redux-form in react native but it was overcomplicated and I may don't want to use redux in this project so I I've found formik and added it. now user can save his/her City ID in database
 https://github.com/ex7r3me/fooname-mobile
+
+##R1D11
+I've played with react-native geolocation API, it was very smooth and easy. also added native-base's toast to the project. now I get the location and show a toast in case of error. https://github.com/ex7r3me/fooname-mobile

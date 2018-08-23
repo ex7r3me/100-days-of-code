@@ -63,3 +63,9 @@
 **Today's Progress**: Save City ID in database using API call and saved Access token 
 
 **Thoughts:** I read about which scenarios I'll need redux, it's a have to or not. and I've come up with that I'll not use it today. and also it was hard to setup redux-form with react native so I switched to formik and it's a good library with good API. It taking more than an hour these days but I learn things here and use 'em in my other projects as well. and I feel very good that I make progress and write them down here
+
+### Day 11: August 23, 2018
+
+**Today's Progress**: Getting user location and show a toast in case of error 
+
+**Thoughts:** I had a hard time with twitter blockage and get the tablet up and running (vpn bug). it took at least 4 hours and then I go for emulator to get today's task done. I thought that working with location would be hard in react native but it was pretty straight forward, also I had to add a Root component for the toast and I think I'm getting better understanding of HOC in react.
