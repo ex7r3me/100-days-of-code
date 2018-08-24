@@ -69,3 +69,9 @@
 **Today's Progress**: Getting user location and show a toast in case of error 
 
 **Thoughts:** I had a hard time with twitter blockage and get the tablet up and running (vpn bug). it took at least 4 hours and then I go for emulator to get today's task done. I thought that working with location would be hard in react native but it was pretty straight forward, also I had to add a Root component for the toast and I think I'm getting better understanding of HOC in react.
+
+### Day 12: August 23, 2018
+
+**Today's Progress**: Get coordination, convert it to city id and save  
+
+**Thoughts:** still using genymotion instead of real device. I think the basic functionality is working now and I need to go to the UI parts for the app and practice on making an acceptable UI. also I'll need a crash report and some kind of analytics for the app and the backend.
