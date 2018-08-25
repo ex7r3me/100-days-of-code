@@ -45,3 +45,6 @@ I've played with react-native geolocation API, it was very smooth and easy. also
 
 ##R1D12
 I've added an endpoint to get coordination and convert it to cityId using OpenWeather's API. also app sends lat and long to the this API endpoint. user updates automatically using hooks. https://github.com/ex7r3me/fooname-mobile
+
+##R1D13
+I've add the react-navigation's drawer to the app and a logout button to delete token and send logout request to server. react navigations looks like a hero in react-native!  https://github.com/ex7r3me/fooname-mobile

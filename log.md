@@ -70,8 +70,14 @@
 
 **Thoughts:** I had a hard time with twitter blockage and get the tablet up and running (vpn bug). it took at least 4 hours and then I go for emulator to get today's task done. I thought that working with location would be hard in react native but it was pretty straight forward, also I had to add a Root component for the toast and I think I'm getting better understanding of HOC in react.
 
-### Day 12: August 23, 2018
+### Day 12: August 24, 2018
 
 **Today's Progress**: Get coordination, convert it to city id and save  
 
 **Thoughts:** still using genymotion instead of real device. I think the basic functionality is working now and I need to go to the UI parts for the app and practice on making an acceptable UI. also I'll need a crash report and some kind of analytics for the app and the backend.
+
+### Day 13: August 25, 2018
+
+**Today's Progress**: Add Logout button, Add application drawer  
+
+**Thoughts:** I didn't know that react-navigation has a built-in drawer. I found out when I couldn't implement native-base's and then in github repository I've found issues about depricating their own drawer and using the react-navigation's instead but the docs didn't updated yet. using react-navgiation drawer was almost smooth and easy, I like the way it integrate with current navigation config. adding the logout button was simple too but the tricky part was that I couldn't set an async storage item to `null`, I had to set it to empty string or remove, I choose to remove it. the code and UI are very dirty at this point but they work.
