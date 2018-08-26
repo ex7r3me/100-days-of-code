@@ -48,3 +48,6 @@ I've added an endpoint to get coordination and convert it to cityId using OpenWe
 
 ##R1D13
 I've add the react-navigation's drawer to the app and a logout button to delete token and send logout request to server. react navigations looks like a hero in react-native!  https://github.com/ex7r3me/fooname-mobile
+
+##R1D14
+I'm focusing on UI Improvements in the app. Today I've changed screen names in the drawer, change Header's layout (Add hamburger menu), linking icon library and make home screen buttons a little better. also, I've removed some unused libraries.  https://github.com/ex7r3me/fooname-mobile
