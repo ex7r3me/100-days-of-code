@@ -94,3 +94,11 @@
 **Thoughts:** I'm starting to work on UI, sometimes it's hard for me to just improvise for the UI so I think I need a plan for it. I'm not satisfied with nativebase designs, but it's the best that I can get now. I prefer material design for android but I don't think it's a good idea to use MD in iOS too. react native sometimes throw weird error that I cannot find out why is that without searching.
 I'm happy that I've completed two weeks of challenge :D
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 15: August 27, 2018
+
+**Today's Progress**: Login flow with loading screen and prevent to come back to login screen for authenticated user. Add logout button in drawer
+
+**Thoughts:** I'm not generalizing and making component in this project yet, cause I want to prevent overgeneralizing that I'm usually do. first I like to see how things need to be done and then do the optimization. for example I'll get in trouble with signout process, cause there's no API call when it happen from drawer. but I need to see what parts need to be generalized and the add utility files.
+
+**Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
