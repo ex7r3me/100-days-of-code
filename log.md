@@ -102,3 +102,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Thoughts:** I'm not generalizing and making component in this project yet, cause I want to prevent overgeneralizing that I'm usually do. first I like to see how things need to be done and then do the optimization. for example I'll get in trouble with signout process, cause there's no API call when it happen from drawer. but I need to see what parts need to be generalized and the add utility files.
 
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 16: August 28, 2018
+
+**Today's Progress**: Create a signed APK from app. create a firebase account and research about it.
+
+**Thoughts:** it wasn't so hard to make an APK, I was made for another project a couple days ago so it was pretty straight forward. but I had to research about finding a database to use for testing app. I think I'll deploy on Zeit's now and using firebase as database
+
+**Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)

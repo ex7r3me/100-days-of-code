@@ -54,3 +54,8 @@ I'm focusing on UI Improvements in the app. Today I've changed screen names in t
 
 ##R1D15
 I've added the authentication flow (check for access token in AsyncStorage) and a logout button using custom drawer component in the react navigation. https://github.com/ex7r3me/fooname-mobile
+
+##R1D16
+Today I've tried to build an APK from source, so I changed some gradle and also I'm looking for a free database service, so I tried playing with firebase. 
+not yet sure about it, but I think I'll use firebase+now
+https://github.com/ex7r3me/fooname-mobile
