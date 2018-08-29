@@ -110,3 +110,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Thoughts:** it wasn't so hard to make an APK, I was made for another project a couple days ago so it was pretty straight forward. but I had to research about finding a database to use for testing app. I think I'll deploy on Zeit's now and using firebase as database
 
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 17: August 29, 2018
+
+**Today's Progress**: remove native-base and add material ui. convert profile and login page components to material.
+
+**Thoughts:** Yesterday I saw a friend making app with flutter and it was beautiful with material design. I was stick to native base because of a lot of components that it has. also I was added the FAB in another project but the performance and ripple was bad. so I decided to use a lighter but more beautiful material component. using native flex for layout and add other components as needed.
+
+**Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)

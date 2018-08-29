@@ -59,3 +59,6 @@ I've added the authentication flow (check for access token in AsyncStorage) and 
 Today I've tried to build an APK from source, so I changed some gradle and also I'm looking for a free database service, so I tried playing with firebase. 
 not yet sure about it, but I think I'll use firebase+now
 https://github.com/ex7r3me/fooname-mobile
+
+##R1D17
+I wasn't satisfied with native-base components performance and design so I removed it and added material UI in the app and I want to learn fundamental react native flex. now the app looks better. https://github.com/ex7r3me/fooname-mobile
