@@ -118,3 +118,14 @@ I'm happy that I've completed two weeks of challenge :D
 **Thoughts:** Yesterday I saw a friend making app with flutter and it was beautiful with material design. I was stick to native base because of a lot of components that it has. also I was added the FAB in another project but the performance and ripple was bad. so I decided to use a lighter but more beautiful material component. using native flex for layout and add other components as needed.
 
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 18: August 30, 2018
+
+**Today's Progress**: Deploy to now.sh. Fix deep link in app and change links to use new URLs.
+
+**Thoughts:** I was tried now.sh before but I didn't success because of an unused 5MB file in my directory. I removed it and deploy was ok. it took time for me to set secrets, using them as env variables and create an alias for my app. removing unused old deployments is still a pain. when I was testing the app with real authentication I've found out that my deep links are no longer working (that's why we all need to add test!) so I trace it and it was because of the switch navigator that i was added before. it needed to add a `path` property and nest my link one more level to support a drawer nested in a switch. I'm thinking about adding test to this projects
+
+**Link to work:** 
+[fooName-mobile](https://github.com/ex7r3me/fooname)
+[fooName](https://github.com/ex7r3me/fooname-mobile)
+
