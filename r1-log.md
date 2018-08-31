@@ -66,3 +66,6 @@ I wasn't satisfied with native-base components performance and design so I remov
 ###R1D18
 Today I had more server-side work, I've deployed the backend on now.sh and updated API calls in the app. I used an extra hour to fix nested deep links in react navigation 
 https://github.com/ex7r3me/fooname
+
+###R1D19
+Finally, I've found a free database service to run the pilot and testing the app. I tried firebase but loopback connector didn't work properly so I switched to mongo and mlab sandbox plan.  https://github.com/ex7r3me/fooname

@@ -129,3 +129,11 @@ I'm happy that I've completed two weeks of challenge :D
 [fooName-mobile](https://github.com/ex7r3me/fooname)
 [fooName](https://github.com/ex7r3me/fooname-mobile)
 
+### Day 19: August 31, 2018
+
+**Today's Progress**: Add database for test run in now.sh
+
+**Thoughts:** I think it was more than 3-4 hours to test, debug and find the final solution for testing. if I look it as an investment it's ok but it looks a little to much for non-production. I tried firestone connector for loopback but beside deprecation warnings I couldn't set it up for main database usage. I searched and found mlab free 0.5GB plan. I think it'll work for running tests till I get a server for this project cause running on now.sh and mlab doesn't look efficient for now.
+
+**Link to work:** 
+[fooName-mobile](https://github.com/ex7r3me/fooname)
