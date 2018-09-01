@@ -69,3 +69,6 @@ https://github.com/ex7r3me/fooname
 
 ###R1D19
 Finally, I've found a free database service to run the pilot and testing the app. I tried firebase but loopback connector didn't work properly so I switched to mongo and mlab sandbox plan.  https://github.com/ex7r3me/fooname
+
+###R1D20
+Today was the start of showing emoji's in the app. also loading profile on the component mount and adding a setting page to the app.  https://github.com/ex7r3me/fooname-mobile

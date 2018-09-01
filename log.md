@@ -136,4 +136,12 @@ I'm happy that I've completed two weeks of challenge :D
 **Thoughts:** I think it was more than 3-4 hours to test, debug and find the final solution for testing. if I look it as an investment it's ok but it looks a little to much for non-production. I tried firestone connector for loopback but beside deprecation warnings I couldn't set it up for main database usage. I searched and found mlab free 0.5GB plan. I think it'll work for running tests till I get a server for this project cause running on now.sh and mlab doesn't look efficient for now.
 
 **Link to work:** 
-[fooName-mobile](https://github.com/ex7r3me/fooname)
+[fooName](https://github.com/ex7r3me/fooname)
+
+### Day 20: September 1, 2018
+
+**Today's Progress**: Show current emoji in profile page. save emoji in databse.
+
+**Thoughts:** I didn't know I need a component to show the emoji (it's not supported in all versions), I've found an emoji picker too so I'll add it the next day. I still didn't found short name for all weather emojis but there should be a workaround. also adding a setting page which control auto-update and adding profile picture to drawer are next steps. I think now.sh and mlab are working fine for test purpose.
+**Link to work:** 
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
