@@ -1,13 +1,15 @@
 # 100 Days Of Code - Log
 
 ### Day 1: August 12, 2018
-**Today's Progress**: Track user changes with update timestamp using hook. add queue manager for upcoming features. 
+
+**Today's Progress**: Track user changes with update timestamp using hook. add queue manager for upcoming features.
 
 **Thoughts:** I had a hard time setting environment again for this project as I was moving to vscode from webstorm. changes was simple but after days they make features.
 
 **Link to work:** [fooName](https://github.com/ex7r3me/fooname)
 
 ### Day 2: August 13, 2018
+
 **Today's Progress**: Start android (react-native) app development using ignite. apply for twitter developer account. add native base component and tried to add twitter signing button
 
 **Thoughts:** as I used ignite for another project it was straight forward to make it work, but there was problem with gradle of sign in button and I may need to write or modify some library code tomorrow.
@@ -15,6 +17,7 @@
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
 ### Day 3: August 14, 2018
+
 **Today's Progress**: Tried 2 libraries for twitter login and there was no luck. I've found another from formidable labs that I'll try tomorrow.
 
 **Thoughts:** I need to read more in depth about react native library linking and project structure. I've read ignite documentation but I feel my fundamental knowledge on react native is not enough. I like to try basic things without library then understand what it do when I use it. it can reduce abstraction leak too.
@@ -22,6 +25,7 @@
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
 ### Day 4: August 15, 2018
+
 **Today's Progress**: Tried appAuth, faced strange error and tried 3 versions of it. I may fallback to auth0
 
 **Thoughts:** I'm not happy that there's nothing to commit. the example of appAuth seems to work (didn't had time to check the twitter oauth). as I go forward I learn more about react native.
@@ -29,60 +33,65 @@
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
 ### Day 5: August 16, 2018
-**Today's Progress**: Added Auth0 and it works, it's somehow a proof of concept but now we have a working twitter authentication. 
+
+**Today's Progress**: Added Auth0 and it works, it's somehow a proof of concept but now we have a working twitter authentication.
 
 **Thoughts:** Today I also flashed an old tablet to test builds on it and make the workflow faster. it was fun and made me happy that there's more memmory for IDE and build server :D. Auth0 documentations and samples are very good and I was up and running with not much hassle. still not sure about this solution and the user experience but going with it for the MVP and complete other parts of app and may update login process later.
 
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
 ### Day 6: August 17, 2018
+
 **Today's Progress**: Added new screen and showing JSON data returned from Auth0
 
 **Thoughts:** I've learned about react navigation and tried to understand it instead of just using. I think it's better for learning and reduce further problems
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
 ### Day 7: August 19, 2018
-**Today's Progress**: Learned more about Auth0 and Deep linking in android, tried deep linking and add user without using third party and only browser. 
+
+**Today's Progress**: Learned more about Auth0 and Deep linking in android, tried deep linking and add user without using third party and only browser.
 
 **Thoughts:** I'm a little confused about authentication flow, cause I need to store twitter credentials in the backend while able to login using mobile app. I thought I need a login with twitter button or Auth0. but now I think I may only need to open the backend api in a webview and on the callback redirect a session to app. I'll read and plan for it tomorrow.
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
 ### Day 8: August 20, 2018
-**Today's Progress**: react-navigation Upgraded and now the app has deep link support that show parameters in the opened screen, also backend redirect to this deep link and send the access token 
+
+**Today's Progress**: react-navigation Upgraded and now the app has deep link support that show parameters in the opened screen, also backend redirect to this deep link and send the access token
 
 **Thoughts:** Today I had a brighter plan and also I knew what to do so I achieved a good progress, also I've get home earlier that usual and finished today's challenge before 10PM, I was tired but had far way better productivity that late night. tomorrow I have a lot to do with access token and making API calls and later I'll go for a deploy and auto app'a APK generating throug CI.
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
 ### Day 9: August 21, 2018
-**Today's Progress**: Access token generated by server now saves in AsyncStorage and can be used in requests 
+
+**Today's Progress**: Access token generated by server now saves in AsyncStorage and can be used in requests
 
 **Thoughts:** I've read about `Redux Persist`, `Saga` and `Redux Sause` and installed reactotron that help me in AsyncStorage too. I used redux saga and actions before but I'm a little confused with this reduxsauce thing and I need to learn what problem does it solves and simplify. I know that saving data directly in AsyncStorage is not a good idea for this application but I wanted to have a working version and then improve it by using redux and it's prsist functionality.
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
 ### Day 10: August 22, 2018
 
-**Today's Progress**: Save City ID in database using API call and saved Access token 
+**Today's Progress**: Save City ID in database using API call and saved Access token
 
 **Thoughts:** I read about which scenarios I'll need redux, it's a have to or not. and I've come up with that I'll not use it today. and also it was hard to setup redux-form with react native so I switched to formik and it's a good library with good API. It taking more than an hour these days but I learn things here and use 'em in my other projects as well. and I feel very good that I make progress and write them down here
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
 ### Day 11: August 23, 2018
 
-**Today's Progress**: Getting user location and show a toast in case of error 
+**Today's Progress**: Getting user location and show a toast in case of error
 
 **Thoughts:** I had a hard time with twitter blockage and get the tablet up and running (vpn bug). it took at least 4 hours and then I go for emulator to get today's task done. I thought that working with location would be hard in react native but it was pretty straight forward, also I had to add a Root component for the toast and I think I'm getting better understanding of HOC in react.
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
 ### Day 12: August 24, 2018
 
-**Today's Progress**: Get coordination, convert it to city id and save  
+**Today's Progress**: Get coordination, convert it to city id and save
 
 **Thoughts:** still using genymotion instead of real device. I think the basic functionality is working now and I need to go to the UI parts for the app and practice on making an acceptable UI. also I'll need a crash report and some kind of analytics for the app and the backend.
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
 ### Day 13: August 25, 2018
 
-**Today's Progress**: Add Logout button, Add application drawer  
+**Today's Progress**: Add Logout button, Add application drawer
 
 **Thoughts:** I didn't know that react-navigation has a built-in drawer. I found out when I couldn't implement native-base's and then in github repository I've found issues about depricating their own drawer and using the react-navigation's instead but the docs didn't updated yet. using react-navgiation drawer was almost smooth and easy, I like the way it integrate with current navigation config. adding the logout button was simple too but the tricky part was that I couldn't set an async storage item to `null`, I had to set it to empty string or remove, I choose to remove it. the code and UI are very dirty at this point but they work.
 **Link to work:** [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
@@ -125,7 +134,7 @@ I'm happy that I've completed two weeks of challenge :D
 
 **Thoughts:** I was tried now.sh before but I didn't success because of an unused 5MB file in my directory. I removed it and deploy was ok. it took time for me to set secrets, using them as env variables and create an alias for my app. removing unused old deployments is still a pain. when I was testing the app with real authentication I've found out that my deep links are no longer working (that's why we all need to add test!) so I trace it and it was because of the switch navigator that i was added before. it needed to add a `path` property and nest my link one more level to support a drawer nested in a switch. I'm thinking about adding test to this projects
 
-**Link to work:** 
+**Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname)
 [fooName](https://github.com/ex7r3me/fooname-mobile)
 
@@ -135,7 +144,7 @@ I'm happy that I've completed two weeks of challenge :D
 
 **Thoughts:** I think it was more than 3-4 hours to test, debug and find the final solution for testing. if I look it as an investment it's ok but it looks a little to much for non-production. I tried firestone connector for loopback but beside deprecation warnings I couldn't set it up for main database usage. I searched and found mlab free 0.5GB plan. I think it'll work for running tests till I get a server for this project cause running on now.sh and mlab doesn't look efficient for now.
 
-**Link to work:** 
+**Link to work:**
 [fooName](https://github.com/ex7r3me/fooname)
 
 ### Day 20: September 1, 2018
@@ -143,5 +152,13 @@ I'm happy that I've completed two weeks of challenge :D
 **Today's Progress**: Show current emoji in profile page. save emoji in databse.
 
 **Thoughts:** I didn't know I need a component to show the emoji (it's not supported in all versions), I've found an emoji picker too so I'll add it the next day. I still didn't found short name for all weather emojis but there should be a workaround. also adding a setting page which control auto-update and adding profile picture to drawer are next steps. I think now.sh and mlab are working fine for test purpose.
-**Link to work:** 
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 21: September 2, 2018
+
+**Today's Progress**: Add OneSignal to project.
+
+**Thoughts:** at start I was confused with build versions in instructions and gradle and other things but when I tried OneSignal that required some changes there I was quite familiar with the environment and just figured it out. also today I've found a new way to give VPN enabled internet to my tablet and now I can test the app and receive notifications on real device, I'm so happy about it.
+**Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
