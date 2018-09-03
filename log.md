@@ -162,3 +162,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Thoughts:** at start I was confused with build versions in instructions and gradle and other things but when I tried OneSignal that required some changes there I was quite familiar with the environment and just figured it out. also today I've found a new way to give VPN enabled internet to my tablet and now I can test the app and receive notifications on real device, I'm so happy about it.
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 22: September 3, 2018
+
+**Today's Progress**: Add Emoji Screen.
+
+**Thoughts:** I thought it would be easy to use an emoji component and hook the selector function but there is problem with layouts in both libraries that I've tried. there are some help-wanted tags in one of them, I choose it so I may able to contribute to that too (it's also better cause it support twitter emojis). also I've learned about export in JS by using it in API URL based on environment
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)

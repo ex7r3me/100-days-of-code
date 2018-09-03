@@ -80,3 +80,6 @@ Today was the start of showing emoji's in the app. also loading profile on the c
 
 ###R1D21
 I have #OneSignal up and running in the app. I had to update gradle, build SDK and... to get it up and running. it's funny when I saw Icons doesn't show properly I knew it needs a `react-native link` command! https://github.com/ex7r3me/fooname-mobile
+
+###R1D22
+I've added an Emoji screen with emoji selector component but it needs work and I need to read more about react-native layouts. also, I've made API calls to local dev server in development mode https://github.com/ex7r3me/fooname-mobile
