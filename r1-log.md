@@ -83,3 +83,6 @@ I have #OneSignal up and running in the app. I had to update gradle, build SDK a
 
 ###R1D22
 I've added an Emoji screen with emoji selector component but it needs work and I need to read more about react-native layouts. also, I've made API calls to local dev server in development mode https://github.com/ex7r3me/fooname-mobile
+
+###R1D23
+I've played with layouts in react native to fix a bug but I wasn't successful tonight. https://github.com/ex7r3me/fooname-mobile

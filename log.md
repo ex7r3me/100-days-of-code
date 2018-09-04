@@ -170,3 +170,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Thoughts:** I thought it would be easy to use an emoji component and hook the selector function but there is problem with layouts in both libraries that I've tried. there are some help-wanted tags in one of them, I choose it so I may able to contribute to that too (it's also better cause it support twitter emojis). also I've learned about export in JS by using it in API URL based on environment
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 23: September 4, 2018
+
+**Today's Progress**: Fix emoji screen toolbar, try new layouts.
+
+**Thoughts:** The emoji library has strange layouting that cover toolbar and I can't tap on it. I think I have to read the library to fix this bug.
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
