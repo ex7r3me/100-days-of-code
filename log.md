@@ -178,3 +178,12 @@ I'm happy that I've completed two weeks of challenge :D
 **Thoughts:** The emoji library has strange layouting that cover toolbar and I can't tap on it. I think I have to read the library to fix this bug.
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day 24: September 5, 2018
+
+**Today's Progress**: Manual emoji selection and save in profile.
+
+**Thoughts:** I searched for a better working emoji selector for react native, but each one had a issue, the first one that I was tested had the twitter pack, a not bad performance, ability to bundle images and I managed to get it works so I think it worth to invest on it and maybe I'll be able to PR to this library and make it better. I was on the edge of giving up for progress and trying to find a better solution on the other day, but as the previous experiences I tried to choose what's working and briging the value, then change it or improve it. and the end user value is more important that the perfect solution.
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+

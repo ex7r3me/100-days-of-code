@@ -86,3 +86,7 @@ I've added an Emoji screen with emoji selector component but it needs work and I
 
 ###R1D23
 I've played with layouts in react native to fix a bug but I wasn't successful tonight. https://github.com/ex7r3me/fooname-mobile
+
+###R1D24
+After searching and trying 4 different emoji selector library I choose to use the first one based on emoji mart. now it's working, however, it needs some tweaks for layouts.
+So now user can save custom emoji in database https://github.com/ex7r3me/fooname-mobile
