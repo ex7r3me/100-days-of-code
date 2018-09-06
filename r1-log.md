@@ -90,3 +90,6 @@ I've played with layouts in react native to fix a bug but I wasn't successful to
 ###R1D24
 After searching and trying 4 different emoji selector library I choose to use the first one based on emoji mart. now it's working, however, it needs some tweaks for layouts.
 So now user can save custom emoji in database https://github.com/ex7r3me/fooname-mobile
+
+###R1D25
+I'm still playing with emoji picker component. today I looked up the code and found some functionality that I need and they weren't in docs (good time to make a PR :D) https://github.com/ex7r3me/fooname-mobile

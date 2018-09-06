@@ -187,3 +187,13 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
+### Day 25: September 6, 2018
+
+**Today's Progress**: Add close functionality for emoji picker.
+
+**Thoughts:** Most of today's time I was reading the emoji picker library to find the functionalities that I want and to fix some bugs that I'm hitting. the blocking bug for now is that buttons come over the picker. I was thinking if I wouldn't be able to fix it in a reasonable time I'll workaround and hide buttons when picker is showing (I know it's a really bad Idea but that's a last resort to don't block the production and stuck in development phase)
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+
+
