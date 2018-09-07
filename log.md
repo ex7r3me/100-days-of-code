@@ -195,5 +195,14 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
+### Day 26: September 7, 2018
+
+**Today's Progress**: Find some ways that cannot be able to develop react native modules locally.
+
+**Thoughts:** I need to make change in library and I need to be able to develop this module locally, but I get error for compilation, dependency and even simple copy pasting the directory doesn't work. I have to find the correct way or dig more.
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+
 
 

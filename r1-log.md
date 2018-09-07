@@ -93,3 +93,6 @@ So now user can save custom emoji in database https://github.com/ex7r3me/fooname
 
 ###R1D25
 I'm still playing with emoji picker component. today I looked up the code and found some functionality that I need and they weren't in docs (good time to make a PR :D) https://github.com/ex7r3me/fooname-mobile
+
+###R1D26
+Today I tried to develop a react native module locally, but it seems like I hit a bug in npm link and react-native, still no luck on this.
