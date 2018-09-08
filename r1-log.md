@@ -96,3 +96,8 @@ I'm still playing with emoji picker component. today I looked up the code and fo
 
 ###R1D26
 Today I tried to develop a react native module locally, but it seems like I hit a bug in npm link and react-native, still no luck on this.
+
+###R1D27
+I've found the problem with emoji picker overlay and send a PR 
+in fooName I've made all emoji selections in the profile screen for better experience. it still needs a lot of works. it also need a color pallete and a logo
+https://github.com/ex7r3me/fooname-mobile

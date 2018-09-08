@@ -203,6 +203,15 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
+### Day 27: September 8, 2018
+
+**Today's Progress**: Made a PR on emoji library. Removed emoji selector screen and put all code in profile screen.
+
+**Thoughts:** I'm excited that I've found this library and if I'll be able to contribute to it. currently the fooName project structure is not in a good shape but it needs to be working, then getting optimized. I may add redux to it. I think I have to share first release soon too. I'm looking for a logo to start with.
+
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
 
 
 
