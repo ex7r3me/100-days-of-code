@@ -101,3 +101,7 @@ Today I tried to develop a react native module locally, but it seems like I hit 
 I've found the problem with emoji picker overlay and send a PR 
 in fooName I've made all emoji selections in the profile screen for better experience. it still needs a lot of works. it also need a color pallete and a logo
 https://github.com/ex7r3me/fooname-mobile
+
+###R1D28
+fooName is now able to change the emoji of the display name manually and set it automatically on app run when it's based on the user location's weather.
+https://github.com/ex7r3me/fooname

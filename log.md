@@ -212,6 +212,12 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
+### Day 28: September 9, 2018
 
+**Today's Progress**: Save manually selected emoji. update only flagged users when app runs.
 
+**Thoughts:** today progress was a key feature in the app. I think I'll need to add an auto update setting in the setting screen and showing photo or previous selected emoji's in profile page too. also I'll need a manual name changing too (and maybe bio!). I'm excited that I can change it via app. I also hope I can contribute to the emoji library. it's a nice module. 
+
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
