@@ -221,3 +221,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
+### Day 29: September 10, 2018
+
+**Today's Progress**: Save and show user image.
+
+**Thoughts:** Adding some extra field and custom profile build on sign up wasn't that hard, I was familiar with them but I had some issue with lodash dadn't it doesn't recognize `null` as a falsy value in `_.get` and it cause me problem with emoji (it crashes on null value) so I had to cover the null scenario manually. on the other had I assumed that material-ui Avatar component will make my image rounded but it doesn't, it just shows the image and I didn't find any good to use it, so I went with the react-native `Image` component. I may change it to Avatar later but not till I read the source and understand what does it actually do. I think It's time to go for a state management (I think redux, cause I used it before). I'll test it in this project and reuse it in another project soon.
+
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)

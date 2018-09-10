@@ -105,3 +105,6 @@ https://github.com/ex7r3me/fooname-mobile
 ###R1D28
 fooName is now able to change the emoji of the display name manually and set it automatically on app run when it's based on the user location's weather.
 https://github.com/ex7r3me/fooname
+
+###R1D29
+I didn't work with images in react native before, It was straightforward for loading from URI. I've added showing profile picture to the app and I had some investigations on the null value in JS  https://github.com/ex7r3me/fooname-mobile
