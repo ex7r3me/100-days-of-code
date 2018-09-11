@@ -229,3 +229,11 @@ I'm happy that I've completed two weeks of challenge :D
 
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day30: September 11, 2018
+
+**Today's Progress**: Add redux and save user profile.
+
+**Thoughts:** My previous attempts on redux in react native was failure, but tonight I've focused on it and found what I have to do. I knew the concpet but the redux-sauce whas (and still is) a strange library. I'm using it because ignite framework using it and I was using a different lib for react in another project. anyway I need to learn how exactly does it simplify the redux process and is there any better alternative or not. I'm happy that now I can go for drawer image and make data and app state more stable and clean. I was waiting for it for so long :))
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
