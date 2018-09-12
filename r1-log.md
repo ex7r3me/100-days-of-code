@@ -111,3 +111,6 @@ I didn't work with images in react native before, It was straightforward for loa
 
 ### R1D30
 Finally, I've got redux working in react native project. it's a requirement to handle data layer in a clean way. now it's possible to load images in the drawer.  https://github.com/ex7r3me/fooname-mobile
+
+### R1D31
+After a long struggle with react-navigation and redux-saga to change route from saga I've choosed a work around to get things working, save access token in store and fill data from redux. https://github.com/ex7r3me/fooname-mobile

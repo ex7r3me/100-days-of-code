@@ -237,3 +237,12 @@ I'm happy that I've completed two weeks of challenge :D
 **Thoughts:** My previous attempts on redux in react native was failure, but tonight I've focused on it and found what I have to do. I knew the concpet but the redux-sauce whas (and still is) a strange library. I'm using it because ignite framework using it and I was using a different lib for react in another project. anyway I need to learn how exactly does it simplify the redux process and is there any better alternative or not. I'm happy that now I can go for drawer image and make data and app state more stable and clean. I was waiting for it for so long :))
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day30: September 12, 2018
+
+**Today's Progress**: Auth and Profile screens using redux to access data.
+
+**Thoughts:** Reading a lot of related issues to find out what's wrong with dispatching a navigation action from saga and didn't found any useful result so I went with a workaround solution as it wasn't that much important in this case but I think I have to find a better solution for this scenario. I've added redux props to profile screen, howere it's not working well now (the store doesn't update) and there's a logical conflict about saving access token. but the structure is looks better than before.
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
