@@ -114,3 +114,6 @@ Finally, I've got redux working in react native project. it's a requirement to h
 
 ### R1D31
 After a long struggle with react-navigation and redux-saga to change route from saga I've choosed a work around to get things working, save access token in store and fill data from redux. https://github.com/ex7r3me/fooname-mobile
+
+### R1D32
+I've learned a lot about react-native, redux-persist, react navigation and how to handle all of them together with a couple of new debugging methods. I've implemented redux with persist data in the app.  https://github.com/ex7r3me/fooname-mobile

@@ -246,3 +246,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
+### Day31: September 13, 2018
+
+**Today's Progress**: Handle and save state with redux and redux persist
+
+**Thoughts:** More than a day, and now I can use 'em all together. I'm tired than write about it. but I think I can write some medium articles about things that I've learned. it was awesome. and the best part is that I'll practice to implement them again in a product tomorrow.
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
