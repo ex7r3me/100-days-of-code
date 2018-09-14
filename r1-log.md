@@ -117,3 +117,6 @@ After a long struggle with react-navigation and redux-saga to change route from 
 
 ### R1D32
 I've learned a lot about react-native, redux-persist, react navigation and how to handle all of them together with a couple of new debugging methods. I've implemented redux with persist data in the app.  https://github.com/ex7r3me/fooname-mobile
+
+### R1D33
+I wrote test for Redux Saga and Reducers in the react native app. it was fun, although I had some problems with showing coverage in the vscode. I like to go TDD for the rest of project.  https://github.com/ex7r3me/fooname-mobile

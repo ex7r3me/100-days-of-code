@@ -238,7 +238,7 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
-### Day30: September 12, 2018
+### Day31: September 12, 2018
 
 **Today's Progress**: Auth and Profile screens using redux to access data.
 
@@ -246,11 +246,19 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
-### Day31: September 13, 2018
+### Day32: September 13, 2018
 
 **Today's Progress**: Handle and save state with redux and redux persist
 
 **Thoughts:** More than a day, and now I can use 'em all together. I'm tired than write about it. but I think I can write some medium articles about things that I've learned. it was awesome. and the best part is that I'll practice to implement them again in a product tomorrow.
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day33: September 14, 2018
+
+**Today's Progress**: Add test for redux reducers and sagas.
+
+**Thoughts:** After investigating call and put in redux-saga and having the basic functionality in the app, I thought it's time to write some regression test before adding features. I started with saga and reducers as I already have some experience with the storybook, to learn them and somehow know and control the learning curve process. it went good and now I have passing test and code coverage, more importantly I hav a code that I'm sure what it do.
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
