@@ -262,3 +262,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
+### Day34: September 15, 2018
+
+**Today's Progress**: Profile screen code cleanup, Add Update user and more test.
+
+**Thoughts:** I'm having fun with redux and sagas tests, it gives me a better understanding of how my application shoud work and put some light on functionalities. Adding a Drawer and using background image was good but as I go forward I feel more need to practice more on my CSS and flex skills. I also found out that it's better to use put instead of call for actions. I like to read more about it.
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
