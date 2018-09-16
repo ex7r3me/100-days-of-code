@@ -270,3 +270,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
+### Day35: September 16, 2018
+
+**Today's Progress**: more profile screen code cleanup, add location redux and saga, location button auto disable.
+
+**Thoughts:** it wasn't easy to embed react native geolocatin in the saga, cause it doesn't look like a promise and a callback only function. after a lot of search it seems that converting it to a promise is the best solution. so I've done it and removed the API component from the profile screen. now it's a lot better.
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+

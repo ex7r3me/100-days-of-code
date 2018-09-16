@@ -123,3 +123,6 @@ I wrote test for Redux Saga and Reducers in the react native app. it was fun, al
 
 ### R1D34
 I've added more test for other saga and reducers, added header and avatar images to drawer component and made some cleanup in main screen  https://github.com/ex7r3me/fooname-mobile
+
+### R1D35
+Had a hard time with react-native geolocation and saga, I had to get it working somehow hacky but now it's the best way possible. I cleaned up the main component from raw API calls.  https://github.com/ex7r3me/fooname-mobile
