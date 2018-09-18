@@ -278,3 +278,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
+### Day36: September 18, 2018
+
+**Today's Progress**: Add snackbar for user and user update fetch.
+
+**Thoughts:** I'm getting use to TDD and it gives me better perspective of the project. finding the proper way to integrate snackbar has take a little time from me but it was fun.
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+

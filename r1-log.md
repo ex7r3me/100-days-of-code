@@ -126,3 +126,6 @@ I've added more test for other saga and reducers, added header and avatar images
 
 ### R1D35
 Had a hard time with react-native geolocation and saga, I had to get it working somehow hacky but now it's the best way possible. I cleaned up the main component from raw API calls.  https://github.com/ex7r3me/fooname-mobile
+
+### R1D36
+I've added snackbar with test and redux connection, now I'm going to add it to a customer's app. it's exciting finding clean ways to implement features.  https://github.com/ex7r3me/fooname-mobile
