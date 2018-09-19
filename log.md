@@ -286,3 +286,12 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
+### Day37: September 19, 2018
+
+**Today's Progress**: Add Icon.
+
+**Thoughts:** trying to get tablet's VPN working to able to access twitter was a 4-5 hour effor which was again unsuccessful. I tried to go with an easy task like changing the icon. I change another project's icon by mistake and it worked. but when I changed it in fooname it wouldn't compile and run and android, I don't think it's a problem with the icons but a problem with the onesignal as the basic troubleshooting shows.
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+
