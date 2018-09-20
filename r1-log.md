@@ -132,3 +132,6 @@ I've added snackbar with test and redux connection, now I'm going to add it to a
 
 ### R1D37
 I've added Icon to the android version of the application, I'm getting a strange error on build which I need to investigate more.  https://github.com/ex7r3me/fooname-mobile
+
+### R1D38
+I've fixed the build error by updating gradle settings and following one signal's documents and added a checkbox to the settings screen. https://github.com/ex7r3me/fooname-mobile

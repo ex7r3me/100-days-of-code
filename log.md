@@ -294,4 +294,12 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
+### Day38: September 20, 2018
+
+**Today's Progress**: Resolve build problem, Add radiobutton.
+
+**Thoughts:** I just followed documents and issues with a fresh mind and the problem solved, about the radio button, I thought that it should be a switch (for a while I'm using iPhone as my daily phone!) but I found out that they are different in android and iOS. I have problem adding text to it cause of formik, It shouldn't be a big problem but it's not straight forward neither. 
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
 
