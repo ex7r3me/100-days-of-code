@@ -302,4 +302,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
 
+### Day39: September 21, 2018
+
+**Today's Progress**: Wrote my first Medium article with sample code repository.
+
+**Thoughts:** It was a long time that I wanted to share what I learn on Medium and also try to repeat solving challenges to learn them better. so I picked one of the recent challenges and wrote about it. it took more than an hour (I think coding part maybe was an hour alone). I'm happy about it, today is a holiday and I may keep doing this on next week too.
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/PeristGateSample)
 
