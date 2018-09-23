@@ -138,3 +138,6 @@ I've fixed the build error by updating gradle settings and following one signal'
 
 ### R1D39
 I've made a repository and wrote a medium story about including persist gate in an ignite project. I've learned it better when I tried to explain and write about it. https://github.com/ex7r3me/PeristGateSample
+
+### R1D40
+I've made an example application for an open source library, it had some challenges but so fun and I'll send the PR after make sure it has the needed quality. https://github.com/ex7r3me/emoji-mart-native

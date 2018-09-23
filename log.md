@@ -310,3 +310,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/PeristGateSample)
 
+### Day40: September 22, 2018
+
+**Today's Progress**: Create example app for emoji-mart-native.
+
+**Thoughts:** First basic functionalities was easy to create but adding the local-images was a little challenging also I think there's a problem with the current packages and they may be outdated, I'll check it tomorrow and post the PR as soon as it get the neede standards
+**Link to work:**
+[emoji-mart-native]( https://github.com/ex7r3me/emoji-mart-native)
+
