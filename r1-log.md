@@ -144,3 +144,6 @@ I've made an example application for an open source library, it had some challen
 
 ### R1D41
 Now the emojis loading from local images instead of network and it's getting faster. also worked on the example app of a related open source project. https://github.com/ex7r3me/fooname-mobile
+
+### R1D42
+I've Improved the app and worked with react native's modal, also added multiple emoji sets support but there's a problem I need to discuss how to fix with the repo owner. https://github.com/ex7r3me/emoji-mart-native

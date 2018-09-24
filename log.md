@@ -325,3 +325,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Thoughts:** Yesterday I was working on the sample of the emoji mart in react native and I was forgot to add the other sets as well. I had some failed attempts but tonight I tried again and it went ok. also used these local images in the fooname project.
 **Link to work:**
 [fooName-mobile](https://github.com/ex7r3me/fooname-mobile)
+
+### Day42: September 24, 2018
+
+**Today's Progress**: Add Modal and all emojis data.
+
+**Thoughts:** It seems there's a problem about emojione license so I think I should open an issue about it, but first I want to get one more step on the example app.
+**Link to work:**
+[emoji-mart-native]( https://github.com/ex7r3me/emoji-mart-native)
