@@ -318,3 +318,10 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [emoji-mart-native]( https://github.com/ex7r3me/emoji-mart-native)
 
+### Day41: September 23, 2018
+
+**Today's Progress**: Load emoji from local images. add all emoji sets to emoji-mart-native example app.
+
+**Thoughts:** Yesterday I was working on the sample of the emoji mart in react native and I was forgot to add the other sets as well. I had some failed attempts but tonight I tried again and it went ok. also used these local images in the fooname project.
+**Link to work:**
+[fooName-mobile](https://github.com/ex7r3me/fooname-mobile)

@@ -141,3 +141,6 @@ I've made a repository and wrote a medium story about including persist gate in 
 
 ### R1D40
 I've made an example application for an open source library, it had some challenges but so fun and I'll send the PR after make sure it has the needed quality. https://github.com/ex7r3me/emoji-mart-native
+
+### R1D41
+Now the emojis loading from local images instead of network and it's getting faster. also worked on the example app of a related open source project. https://github.com/ex7r3me/fooname-mobile
