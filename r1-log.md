@@ -147,3 +147,6 @@ Now the emojis loading from local images instead of network and it's getting fas
 
 ### R1D42
 I've Improved the app and worked with react native's modal, also added multiple emoji sets support but there's a problem I need to discuss how to fix with the repo owner. https://github.com/ex7r3me/emoji-mart-native
+
+### R1D43
+I've added a react native Picker to choose from sets and display the emoji pickers, it works fine and getting ready for a PR. https://github.com/ex7r3me/emoji-mart-native

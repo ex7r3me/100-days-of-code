@@ -333,3 +333,12 @@ I'm happy that I've completed two weeks of challenge :D
 **Thoughts:** It seems there's a problem about emojione license so I think I should open an issue about it, but first I want to get one more step on the example app.
 **Link to work:**
 [emoji-mart-native]( https://github.com/ex7r3me/emoji-mart-native)
+
+### Day43: September 25, 2018
+
+**Today's Progress**: Add picker and choosing the set.
+
+**Thoughts:** I ignored the emojione after tried direct downloading, I'll open the issue about it. I tried React native picker and it was cool but had some problems with custom field, I bypassed it and put the items manually but it doesn't trigger if the same option that was selected select again (onChangValue). it works for now, I will ask the repo owner for further optimizations.
+**Link to work:**
+[emoji-mart-native]( https://github.com/ex7r3me/emoji-mart-native)
+
