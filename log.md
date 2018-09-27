@@ -342,3 +342,18 @@ I'm happy that I've completed two weeks of challenge :D
 **Link to work:**
 [emoji-mart-native]( https://github.com/ex7r3me/emoji-mart-native)
 
+### Day44: September 26, 2018
+
+**Today's Progress**: Get app ready for PR and open issues and followups.
+
+**Thoughts:** I'm happy I've finally open this PR, I had some guilty feeling cause it took about 2 week (I had busy schedule about another project and prefer to working on foonameMobile cause it was helping the other project too) the chances that it need updates are high but I'm happy that I could suggest some point to make the project better.
+**Link to work:**
+[emoji-mart-native]( https://github.com/ex7r3me/emoji-mart-native)
+
+### Day45: September 27, 2018
+
+**Today's Progress**: Updated the sample app.
+
+**Thoughts:** It was fun updating the app, I wish I could done it tonight but it's too late already and I should review and cleanup with fresh mind. a good thing about making it is that I exercise the features I need in foonameMobile, it's going to be a chain of projects that help each other to get better and i like it.
+**Link to work:**
+[emoji-mart-native]( https://github.com/ex7r3me/emoji-mart-native)

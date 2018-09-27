@@ -150,3 +150,9 @@ I've Improved the app and worked with react native's modal, also added multiple 
 
 ### R1D43
 I've added a react native Picker to choose from sets and display the emoji pickers, it works fine and getting ready for a PR. https://github.com/ex7r3me/emoji-mart-native
+
+### R1D44
+Today I have cleaned up the code following the main repo prettier guide, had some updating from upstream and merging the development branch, and finally opening the PR :D https://github.com/ex7r3me/emoji-mart-native
+
+### R1D45
+I've done some change requests on the PR, thanks to the repo owner they were very clear and I enjoyed doing them, it's almost done but need some cleanups that I'll do tomorrow. https://github.com/ex7r3me/emoji-mart-native
