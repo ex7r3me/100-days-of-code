@@ -156,3 +156,6 @@ Today I have cleaned up the code following the main repo prettier guide, had som
 
 ### R1D45
 I've done some change requests on the PR, thanks to the repo owner they were very clear and I enjoyed doing them, it's almost done but need some cleanups that I'll do tomorrow. https://github.com/ex7r3me/emoji-mart-native
+
+### R1D46
+We had some breaking changes in the library so I updated the sample app to match them, thanks for the heads up by repo owner. I also updated the fooname with new lib version and cleaner code.  https://github.com/ex7r3me/emoji-mart-native

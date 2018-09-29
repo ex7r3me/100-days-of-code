@@ -357,3 +357,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Thoughts:** It was fun updating the app, I wish I could done it tonight but it's too late already and I should review and cleanup with fresh mind. a good thing about making it is that I exercise the features I need in foonameMobile, it's going to be a chain of projects that help each other to get better and i like it.
 **Link to work:**
 [emoji-mart-native]( https://github.com/ex7r3me/emoji-mart-native)
+
+### Day46: September 28, 2018
+
+**Today's Progress**: More updates on sample app, update fooname's lib and inline emoji picker.
+
+**Thoughts:** I'm not sure how much I had played a role for the some improvements in the main lib, it wasn't something that I did but I had some effects I think, anyway it makes me feel good about what I'm doing in this challenge and collaborating with someone else is exciting and have things to learn. being more specific, communicate and for example give a time estimate for things that I'm going to do. the fact that recent changes solved some problems in the fooname is very awesome. no longer layout problems (I remember first days I was struggling with this!). I should release the fooname in the next couple of weeks and I have to find a server to host the database and webapp.
+**Link to work:**
+[emoji-mart-native]( https://github.com/ex7r3me/emoji-mart-native)
