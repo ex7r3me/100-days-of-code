@@ -159,3 +159,6 @@ I've done some change requests on the PR, thanks to the repo owner they were ver
 
 ### R1D46
 We had some breaking changes in the library so I updated the sample app to match them, thanks for the heads up by repo owner. I also updated the fooname with new lib version and cleaner code.  https://github.com/ex7r3me/emoji-mart-native
+
+### R1D47
+I've updated and cleaned up the sample app and request for review. if it goes OK I'll get back on fooname tomorrow https://github.com/ex7r3me/emoji-mart-native

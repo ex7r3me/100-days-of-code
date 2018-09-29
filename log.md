@@ -365,3 +365,11 @@ I'm happy that I've completed two weeks of challenge :D
 **Thoughts:** I'm not sure how much I had played a role for the some improvements in the main lib, it wasn't something that I did but I had some effects I think, anyway it makes me feel good about what I'm doing in this challenge and collaborating with someone else is exciting and have things to learn. being more specific, communicate and for example give a time estimate for things that I'm going to do. the fact that recent changes solved some problems in the fooname is very awesome. no longer layout problems (I remember first days I was struggling with this!). I should release the fooname in the next couple of weeks and I have to find a server to host the database and webapp.
 **Link to work:**
 [emoji-mart-native]( https://github.com/ex7r3me/emoji-mart-native)
+
+### Day47: September 29, 2018
+
+**Today's Progress**: Update sample app.
+
+**Thoughts:** I tried to cleanup the sample app and keep project consistency with current project structure. It was fun and I learned new ways of including components. I don't know about package and app name, but I think they have to be changed, we can discuss that in the issue. I have to open another issue about the localimage loading for single emoji component too.
+**Link to work:**
+[emoji-mart-native]( https://github.com/ex7r3me/emoji-mart-native)
